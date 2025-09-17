@@ -1,4 +1,6 @@
-# A Graph Attention Spatio-temporal Convolutional Networks for 3D Human Pose Estimation in Video (GAST-Net)
+Skeleton generation:
+
+Original Repo - [# A Graph Attention Spatio-temporal Convolutional Networks for 3D Human Pose Estimation in Video (GAST-Net)](https://github.com/fabro66/GAST-Net-3DPoseEstimation)
 
 ### News
 * [2021/01/28] We update GAST-Net to able to generate 19-joint human poses including body and foot joints. [**[DEMO]**](./image/Baseball_body_foot.gif)
