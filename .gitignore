@@ -159,6 +159,6 @@ real_time_skes.py
 
 # ignore imp_model
 /imp_model
-
+input_videos/
 # ignore 111.mp4
 111.mp4
